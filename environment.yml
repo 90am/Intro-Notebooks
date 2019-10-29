@@ -1,4 +1,4 @@
-name: intro-notebooks
+name: intro-notebooks-environment
 channels:
   - conda-forge
 dependencies:
