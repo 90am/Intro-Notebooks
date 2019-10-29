@@ -1,6 +1,7 @@
 numpy
 pandas
 altair
+vega
 vega_datasets
 scikit-learn
 pandas
