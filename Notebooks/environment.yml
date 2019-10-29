@@ -1,0 +1,10 @@
+name: intro-notebooks
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - altair
+  - vega_datasets
+  - math
+  - sklearn
